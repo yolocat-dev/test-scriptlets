@@ -1,0 +1,1 @@
+alert("Scriptlet loaded successfully!");
